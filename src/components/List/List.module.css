@@ -1,0 +1,8 @@
+.li{
+    display: flex!important;
+    justify-content: space-between!important;
+    align-items: start!important;
+    gap: 10px!important;
+    padding: 10px!important;
+    background-color: rgb(34, 194, 243)!important;
+}
